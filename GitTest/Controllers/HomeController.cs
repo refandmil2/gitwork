@@ -10,6 +10,10 @@ namespace GitTest.Controllers
 {
     public class HomeController : Controller
     {
+        /// <summary>
+        /// dev 1
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Index()
         {
             return View();
