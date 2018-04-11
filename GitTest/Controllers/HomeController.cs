@@ -17,6 +17,7 @@ namespace GitTest.Controllers
 
         /// <summary>
         /// master 1
+        /// master 2
         /// </summary>
         /// <returns></returns>
         public IActionResult About()
