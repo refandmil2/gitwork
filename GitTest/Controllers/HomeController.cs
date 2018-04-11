@@ -12,6 +12,7 @@ namespace GitTest.Controllers
     {
         /// <summary>
         /// dev 1
+        /// dev 2
         /// </summary>
         /// <returns></returns>
         public IActionResult Index()
